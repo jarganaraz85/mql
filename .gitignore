@@ -7,3 +7,5 @@ Indicators/
 Presets
 Projects
 Shared Projects
+*.ex4
+*.dat
